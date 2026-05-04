@@ -1,0 +1,142 @@
+[
+  {
+    "pose_name": "Mountain Pose (Tadasana)",
+    "joint_angles": {
+      "left_knee": {"min": 170, "max": 180, "tolerance": 10},
+      "right_knee": {"min": 170, "max": 180, "tolerance": 10},
+      "left_hip": {"min": 170, "max": 180, "tolerance": 10},
+      "right_hip": {"min": 170, "max": 180, "tolerance": 10},
+      "left_elbow": {"min": 160, "max": 180, "tolerance": 15},
+      "right_elbow": {"min": 160, "max": 180, "tolerance": 15},
+      "trunk_lean": {"min": 0, "max": 10, "tolerance": 8}
+    },
+    "difficulty": "easy",
+    "duration_sec": 30,
+    "description": "Stand tall, feet together, arms at sides, weight evenly distributed.",
+    "tips": ["Keep feet parallel", "Engage core muscles", "Relax shoulders"]
+  },
+  {
+    "pose_name": "Warrior I (Virabhadrasana I)",
+    "joint_angles": {
+      "left_knee": {"min": 85, "max": 95, "tolerance": 10},
+      "right_knee": {"min": 160, "max": 180, "tolerance": 15},
+      "left_hip": {"min": 80, "max": 100, "tolerance": 15},
+      "right_hip": {"min": 150, "max": 180, "tolerance": 15},
+      "trunk_lean": {"min": 0, "max": 15, "tolerance": 10}
+    },
+    "difficulty": "medium",
+    "duration_sec": 30,
+    "description": "Front knee bent at 90°, back leg straight, arms raised overhead.",
+    "tips": ["Keep front knee over ankle", "Square hips forward", "Reach arms high"]
+  },
+  {
+    "pose_name": "Warrior II (Virabhadrasana II)",
+    "joint_angles": {
+      "left_knee": {"min": 85, "max": 95, "tolerance": 10},
+      "right_knee": {"min": 160, "max": 180, "tolerance": 15},
+      "left_shoulder": {"min": 80, "max": 100, "tolerance": 15},
+      "right_shoulder": {"min": 80, "max": 100, "tolerance": 15},
+      "trunk_lean": {"min": 0, "max": 10, "tolerance": 8}
+    },
+    "difficulty": "medium",
+    "duration_sec": 30,
+    "description": "Wide stance, front knee bent, arms extended parallel to floor.",
+    "tips": ["Gaze over front hand", "Keep torso centered", "Press into back foot"]
+  },
+  {
+    "pose_name": "Tree Pose (Vrksasana)",
+    "joint_angles": {
+      "left_knee": {"min": 170, "max": 180, "tolerance": 10},
+      "right_knee": {"min": 30, "max": 90, "tolerance": 20},
+      "right_hip": {"min": 30, "max": 90, "tolerance": 20},
+      "trunk_lean": {"min": 0, "max": 10, "tolerance": 8}
+    },
+    "difficulty": "medium",
+    "duration_sec": 30,
+    "description": "Stand on one leg, other foot on inner thigh or calf, hands at heart or overhead.",
+    "tips": ["Focus on a fixed point", "Engage standing leg", "Avoid placing foot on knee"]
+  },
+  {
+    "pose_name": "Cat-Cow Pose",
+    "joint_angles": {
+      "left_knee": {"min": 85, "max": 95, "tolerance": 10},
+      "right_knee": {"min": 85, "max": 95, "tolerance": 10},
+      "left_hip": {"min": 85, "max": 95, "tolerance": 10},
+      "right_hip": {"min": 85, "max": 95, "tolerance": 10},
+      "trunk_lean": {"min": 60, "max": 90, "tolerance": 20}
+    },
+    "difficulty": "easy",
+    "duration_sec": 30,
+    "description": "On all fours, alternate between arching and rounding spine.",
+    "tips": ["Inhale for cow, exhale for cat", "Move slowly", "Coordinate with breath"]
+  },
+  {
+    "pose_name": "Downward Dog (Adho Mukha Svanasana)",
+    "joint_angles": {
+      "left_knee": {"min": 160, "max": 180, "tolerance": 15},
+      "right_knee": {"min": 160, "max": 180, "tolerance": 15},
+      "left_hip": {"min": 40, "max": 80, "tolerance": 20},
+      "right_hip": {"min": 40, "max": 80, "tolerance": 20},
+      "left_elbow": {"min": 160, "max": 180, "tolerance": 15},
+      "right_elbow": {"min": 160, "max": 180, "tolerance": 15},
+      "trunk_lean": {"min": 30, "max": 60, "tolerance": 20}
+    },
+    "difficulty": "medium",
+    "duration_sec": 30,
+    "description": "Inverted V shape, hands and feet on floor, hips lifted high.",
+    "tips": ["Press hands into floor", "Bend knees slightly if needed", "Relax neck"]
+  },
+  {
+    "pose_name": "Child's Pose (Balasana)",
+    "joint_angles": {
+      "left_knee": {"min": 20, "max": 50, "tolerance": 20},
+      "right_knee": {"min": 20, "max": 50, "tolerance": 20},
+      "left_hip": {"min": 20, "max": 50, "tolerance": 20},
+      "right_hip": {"min": 20, "max": 50, "tolerance": 20},
+      "trunk_lean": {"min": 60, "max": 90, "tolerance": 20}
+    },
+    "difficulty": "easy",
+    "duration_sec": 30,
+    "description": "Kneel, sit back on heels, fold forward with arms extended.",
+    "tips": ["Rest forehead on floor", "Breathe deeply", "Widen knees if needed"]
+  },
+  {
+    "pose_name": "Seated Forward Bend (Paschimottanasana)",
+    "joint_angles": {
+      "left_knee": {"min": 160, "max": 180, "tolerance": 15},
+      "right_knee": {"min": 160, "max": 180, "tolerance": 15},
+      "left_hip": {"min": 30, "max": 70, "tolerance": 20},
+      "right_hip": {"min": 30, "max": 70, "tolerance": 20},
+      "trunk_lean": {"min": 40, "max": 80, "tolerance": 25}
+    },
+    "difficulty": "easy",
+    "duration_sec": 30,
+    "description": "Sit with legs extended, fold forward from hips toward toes.",
+    "tips": ["Keep spine long", "Don't round back", "Hold shins or feet"]
+  },
+  {
+    "pose_name": "Corpse Pose (Savasana)",
+    "joint_angles": {
+      "left_knee": {"min": 170, "max": 180, "tolerance": 15},
+      "right_knee": {"min": 170, "max": 180, "tolerance": 15},
+      "trunk_lean": {"min": 75, "max": 90, "tolerance": 15}
+    },
+    "difficulty": "easy",
+    "duration_sec": 60,
+    "description": "Lie flat on back, arms at sides, palms up, eyes closed.",
+    "tips": ["Let body sink into floor", "Release all tension", "Focus on breathing"]
+  },
+  {
+    "pose_name": "Standing Leg Raise (Modified)",
+    "joint_angles": {
+      "left_knee": {"min": 170, "max": 180, "tolerance": 10},
+      "left_hip": {"min": 110, "max": 150, "tolerance": 20},
+      "right_knee": {"min": 170, "max": 180, "tolerance": 15},
+      "trunk_lean": {"min": 0, "max": 15, "tolerance": 10}
+    },
+    "difficulty": "medium",
+    "duration_sec": 20,
+    "description": "Stand on one leg, slowly raise other leg forward with knee straight.",
+    "tips": ["Hold onto support if needed", "Keep standing leg strong", "Lift only as high as comfortable"]
+  }
+]
