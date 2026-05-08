@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🚀 PreFall Intelligence Health Monitoring System (PIHMS)
+### 🚀 PreFall Intelligence Health Monitoring System(PIHMS)
 
 *"Transforming healthcare from reactive treatment to predictive prevention using Edge AI."*
 
