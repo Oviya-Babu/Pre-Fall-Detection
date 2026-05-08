@@ -458,14 +458,6 @@ Supports safe and independent living environments.
 
 ---
 
-# 📸 Demo Screenshots
-
-Add screenshots inside an `assets/` folder and reference them here.
-
-```md
-![Dashboard](assets/dashboard.png)
-```
-
 ### Recommended Screenshots
 
 - Dashboard UI
