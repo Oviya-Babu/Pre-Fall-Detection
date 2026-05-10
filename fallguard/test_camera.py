@@ -7,7 +7,7 @@ import cv2
 
 def test_camera_stream():
     # DroidCam URL from user's example
-    url = "http://10.236.100.192:4747/video"
+    url = os.getenv("CAMERA_STREAM_URL")
     
     print(f"Connecting to camera at {url}")
     
